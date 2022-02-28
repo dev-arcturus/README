@@ -16,6 +16,7 @@ const aboutMe = {
     "GraphQL",
     "Firebase",
     "Tailwind",
+    ...otherToolsThatIDontEverUse
   ],
 };
 ```
