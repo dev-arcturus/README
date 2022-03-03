@@ -4,7 +4,8 @@
 const aboutMe = {
   pronouns: "he/him",
   aliasName: "arcturus",
-  worksAs: "Full Stack Developer",
+  specializesIn: "Full Stack Web/Mobile Developement",
+  worksAs: "High School Student"
   age: moment().diff("2005-06-08", "years", false),
   primaryLanguages: ["TypeScript", "Python"],
   otherLanguages: ["JavaScript", "C", "C++", "Java", "HTML", "CSS"],
